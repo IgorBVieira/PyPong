@@ -1,10 +1,8 @@
 # PyPong
 
-# Jogo Pong feito em python com a biblioteca Turtle
+Jogo Pong feito em python com a biblioteca Turtle
 
-# Readme
-
-Tutorial By: [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-code-pong-in-python/)
+> Tutorial By: [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-code-pong-in-python/)
 
 ## Steps
 
