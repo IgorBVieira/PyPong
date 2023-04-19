@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # PyPong
 Jogo Pong feito em python com a biblioteca Turtle
 =======
@@ -18,4 +18,4 @@ Tutorial By: [FreeCodeCamp](https://www.freecodecamp.org/news/how-to-code-pong-i
     - Step 4: Add additional features and customization
 
     - Step 5: Test and debug your code
->>>>>>> master
+
